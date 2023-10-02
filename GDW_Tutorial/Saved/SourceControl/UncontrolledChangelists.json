@@ -6,7 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/ryanh/Desktop/Uni Work/Year 3/GDW VI/Tutorials/GDW-VI-Tutorials/GDW_Tutorial/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"C:/Users/ryanh/Desktop/Uni Work/Year 3/GDW VI/Tutorials/GDW-VI-Tutorials/GDW_Tutorial/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+				"C:/Users/ryanh/Desktop/Uni Work/Year 3/GDW VI/Tutorials/GDW-VI-Tutorials/GDW_Tutorial/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/ryanh/Desktop/Uni Work/Year 3/GDW VI/Tutorials/GDW-VI-Tutorials/GDW_Tutorial/Content/Blueprint/BP_Turret.uasset",
+				"C:/Users/ryanh/Desktop/Uni Work/Year 3/GDW VI/Tutorials/GDW-VI-Tutorials/GDW_Tutorial/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/SQ/FA9KGLT0JQLEOQF4NS7CGX.uasset"
 			]
 		}
 	]
