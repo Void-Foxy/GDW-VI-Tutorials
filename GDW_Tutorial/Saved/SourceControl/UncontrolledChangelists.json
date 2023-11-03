@@ -5,6 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/ryanh/Desktop/Uni Work/Year 3/GDW VI/Tutorials/GDW-VI-Tutorials/GDW_Tutorial/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/ryanh/Desktop/Uni Work/Year 3/GDW VI/Tutorials/GDW-VI-Tutorials/GDW_Tutorial/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/ryanh/Desktop/Uni Work/Year 3/GDW VI/Tutorials/GDW-VI-Tutorials/GDW_Tutorial/Content/Blueprint/BP_Turret.uasset",
+				"C:/Users/ryanh/Desktop/Uni Work/Year 3/GDW VI/Tutorials/GDW-VI-Tutorials/GDW_Tutorial/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/SQ/FA9KGLT0JQLEOQF4NS7CGX.uasset",
+				"C:/Users/ryanh/Desktop/Uni Work/Year 3/GDW VI/Tutorials/GDW-VI-Tutorials/GDW_Tutorial/Content/Blueprint/Bullet.uasset",
+				"C:/Users/ryanh/Desktop/Uni Work/Year 3/GDW VI/Tutorials/GDW-VI-Tutorials/GDW_Tutorial/Content/Blueprint/UI/Player_UI.uasset",
+				"C:/Users/ryanh/Desktop/Uni Work/Year 3/GDW VI/Tutorials/GDW-VI-Tutorials/GDW_Tutorial/Content/Blueprint/UI/WB_AI_HP.uasset",
+				"C:/Users/ryanh/Desktop/Uni Work/Year 3/GDW VI/Tutorials/GDW-VI-Tutorials/GDW_Tutorial/Content/Blueprint/AI_Nav/AI_Enemy.uasset",
+				"C:/Users/ryanh/Desktop/Uni Work/Year 3/GDW VI/Tutorials/GDW-VI-Tutorials/GDW_Tutorial/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
 				"G:/University work/Unreal Project testing/GDW V/GDW-VI-Tutorials/GDW_Tutorial/Content/Material/LandscapeMaterial.uasset",
 				"G:/University work/Unreal Project testing/GDW V/GDW-VI-Tutorials/GDW_Tutorial/Content/Scenes/LevelBuilding.umap",
 				"G:/University work/Unreal Project testing/GDW V/GDW-VI-Tutorials/GDW_Tutorial/Content/Material/Grass_LayerInfo.uasset",
@@ -20,12 +29,7 @@
 				"G:/University work/Unreal Project testing/GDW V/GDW-VI-Tutorials/GDW_Tutorial/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/27/EVX50L03KNS3WMTIH1PVBQ.uasset",
 				"G:/University work/Unreal Project testing/GDW V/GDW-VI-Tutorials/GDW_Tutorial/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/UA/6DHUWLHN5DFQBUUUIDDTG0.uasset",
 				"G:/University work/Unreal Project testing/GDW V/GDW-VI-Tutorials/GDW_Tutorial/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/MK/3G6BOCUETP6YDBT07IPY1E.uasset",
-				"G:/University work/Unreal Project testing/GDW V/GDW-VI-Tutorials/GDW_Tutorial/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/S7/OSH9PGRSIKCHZHBD6D26S5.uasset",
-				"C:/Users/ryanh/Desktop/Uni Work/Year 3/GDW VI/Tutorials/GDW-VI-Tutorials/GDW_Tutorial/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"C:/Users/ryanh/Desktop/Uni Work/Year 3/GDW VI/Tutorials/GDW-VI-Tutorials/GDW_Tutorial/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/ryanh/Desktop/Uni Work/Year 3/GDW VI/Tutorials/GDW-VI-Tutorials/GDW_Tutorial/Content/Blueprint/BP_Turret.uasset",
-				"C:/Users/ryanh/Desktop/Uni Work/Year 3/GDW VI/Tutorials/GDW-VI-Tutorials/GDW_Tutorial/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/SQ/FA9KGLT0JQLEOQF4NS7CGX.uasset",
-				"C:/Users/ryanh/Desktop/Uni Work/Year 3/GDW VI/Tutorials/GDW-VI-Tutorials/GDW_Tutorial/Content/Blueprint/Bullet.uasset"
+				"G:/University work/Unreal Project testing/GDW V/GDW-VI-Tutorials/GDW_Tutorial/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/S7/OSH9PGRSIKCHZHBD6D26S5.uasset"
 			]
 		}
 	]
